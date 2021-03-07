@@ -6,6 +6,37 @@ Tập dữ liệu: Các dữ liệu được lấy bộ dữ liệu Quick Draw c
 - [Hình tam giác](https://storage.cloud.google.com/quickdraw_dataset/full/numpy_bitmap/triangle.npy)
 - [Hình gấp khúc](https://storage.cloud.google.com/quickdraw_dataset/full/numpy_bitmap/zigzag.npy)
 
+Để chạy được, bạn phải tải đủ 4 file trên, đặt vào thư mục data/ 
+
+## Cấu trúc thư mục
+
+```shell
+QuickDraw
+│   cvt2img.py
+│   Figure_1.png
+│   Figure_2.png
+│   LoadData.py
+│   QD_trainer.py
+│   QuickDrawApp.py
+│   readme.md
+│   requirements.txt
+│   Screenshot 2021-01-04 210639.png
+│
+├───data
+├───emojis
+│       0.png
+│       1.png
+│       2.png
+│       3.png
+│       4.png
+│
+└───images
+    ├───apple
+    ├───circle
+    ├───triangle
+    └───zigzac
+```
+
 ### References:
  
  - [Dataset](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap;tab=objects?pli=1&prefix=&forceOnObjectsSortingFiltering=false&pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22)))
