@@ -1,3 +1,5 @@
+![](https://v1.screenshot.11ty.dev/https%3A%2F%2Fquickdraw.withgoogle.com%2F/opengraph)
+
 # QUICK, DRAW!
 
 Tập dữ liệu: Các dữ liệu được lấy bộ dữ liệu Quick Draw của Google, gồm 4 loại hình vẽ tay đơn giản:
@@ -36,6 +38,14 @@ QuickDraw
     ├───triangle
     └───zigzac
 ```
+
+### Training
+
+![](/Layers.png)
+
+![](/Figure_1.png)
+
+![](/Figure_2.png)
 
 ### References:
  
