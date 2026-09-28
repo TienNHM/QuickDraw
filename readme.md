@@ -1,6 +1,6 @@
-![](https://v1.screenshot.11ty.dev/https%3A%2F%2Fquickdraw.withgoogle.com%2F/opengraph)
-
 # QUICK, DRAW!
+
+![](https://v1.screenshot.11ty.dev/https%3A%2F%2Fquickdraw.withgoogle.com%2F/opengraph)
 
 Tập dữ liệu: Các dữ liệu được lấy bộ dữ liệu Quick Draw của Google, gồm 4 loại hình vẽ tay đơn giản:
 - [Hình tròn](https://storage.cloud.google.com/quickdraw_dataset/full/numpy_bitmap/circle.npy)
